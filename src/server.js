@@ -14,4 +14,4 @@ server.set('views', path.join(__dirname, 'views'))
 
 server.use(route)
 
-server.listen(3000, () => console.log('RODANDO'))
+server.listen(3000, () => console.log('Servidor Iniciado!'))
