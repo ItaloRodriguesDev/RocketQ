@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Calendário Almoço.svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1921"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#aa0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1919" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#aa0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1643" />
+    </marker>
+    <rect
+       x="-351.19216"
+       y="65.748304"
+       width="121.34037"
+       height="11.22532"
+       id="rect1593" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1125">
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:1;"
+         offset="0"
+         id="stop1121" />
+      <stop
+         style="stop-color:#ffaaaa;stop-opacity:1"
+         offset="1"
+         id="stop1123" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1125"
+       id="linearGradient1127"
+       x1="-47.573975"
+       y1="-68.955544"
+       x2="306.75159"
+       y2="431.23837"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1125"
+       id="linearGradient1275"
+       gradientUnits="userSpaceOnUse"
+       x1="-47.573975"
+       y1="-68.955544"
+       x2="306.75159"
+       y2="431.23837"
+       gradientTransform="translate(-224.45723,-442.8352)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1449"
+       x="-0.0053733315"
+       width="1.0107467"
+       y="-0.017677279"
+       height="1.0353546">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.21375019"
+         id="feGaussianBlur1451" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1513"
+       x="-0.022365584"
+       width="1.0447312"
+       y="-0.021620069"
+       height="1.0432401">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.28891917"
+         id="feGaussianBlur1515" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2141"
+       x="-0.00097726695"
+       width="1.0019545"
+       y="-0.054333651"
+       height="1.1086673">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.095951485"
+         id="feGaussianBlur2143" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2247"
+       x="-0.06912"
+       width="1.13824"
+       y="-0.06912"
+       height="1.13824">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22995217"
+         id="feGaussianBlur2249" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-1220.6542"
+     inkscape:cy="767.4556"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient1127);stroke-width:0.265861;stroke-linecap:round;stroke-linejoin:bevel;fill-opacity:1"
+       id="rect1115"
+       width="210"
+       height="296"
+       x="0.53453904"
+       y="0.5345394" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="19.654762"
+       y="108.85714"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="19.654762"
+         y="108.85714"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="2.2678578"
+       y="90.336319"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="2.2678578"
+         y="90.336319"
+         style="stroke-width:0.264583">10/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="38.282822"
+       y="90.336319"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="38.282822"
+         y="90.336319"
+         style="stroke-width:0.264583">11/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="72.53035"
+       y="90.336319"
+       id="text851"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="72.53035"
+         y="90.336319"
+         style="stroke-width:0.264583">12/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="107.8997"
+       y="90.336319"
+       id="text855"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="107.8997"
+         y="90.336319"
+         style="stroke-width:0.264583">13/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="143.06792"
+       y="90.336319"
+       id="text859"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="143.06792"
+         y="90.336319"
+         style="stroke-width:0.264583">14/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="145.14285"
+       y="224.51785"
+       id="text863"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="145.14285"
+         y="224.51785"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="178.63837"
+       y="90.336319"
+       id="text867"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="178.63837"
+         y="90.336319"
+         style="stroke-width:0.264583">15/05</tspan></text>
+    <g
+       id="g1105">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+         x="10.866787"
+         y="74.839279"
+         id="text839"><tspan
+           sodipodi:role="line"
+           id="tspan837"
+           x="10.866787"
+           y="74.839279"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Ter </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="43.87608"
+         y="74.998032"
+         id="text873"><tspan
+           sodipodi:role="line"
+           id="tspan871"
+           x="43.87608"
+           y="74.998032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Qua</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="79.986275"
+         y="74.998032"
+         id="text877"><tspan
+           sodipodi:role="line"
+           id="tspan875"
+           x="79.986275"
+           y="74.998032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Qui</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+         x="113.09611"
+         y="74.998032"
+         id="text881"><tspan
+           sodipodi:role="line"
+           id="tspan879"
+           x="113.09611"
+           y="74.998032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Sext</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="150.01056"
+         y="74.998032"
+         id="text885"><tspan
+           sodipodi:role="line"
+           id="tspan883"
+           x="150.01056"
+           y="74.998032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Sáb</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="182.85579"
+         y="74.839279"
+         id="text889"><tspan
+           sodipodi:role="line"
+           id="tspan887"
+           x="182.85579"
+           y="74.839279"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Dom</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="2.2678578"
+       y="127.37798"
+       id="text895"><tspan
+         sodipodi:role="line"
+         id="tspan893"
+         x="2.2678578"
+         y="127.37798"
+         style="stroke-width:0.264583">24/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="38.282822"
+       y="127.37798"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="38.282822"
+         y="127.37798"
+         style="stroke-width:0.264583">25/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="72.53035"
+       y="127.37798"
+       id="text903"><tspan
+         sodipodi:role="line"
+         id="tspan901"
+         x="72.53035"
+         y="127.37798"
+         style="stroke-width:0.264583">26/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="107.8997"
+       y="127.37798"
+       id="text907"><tspan
+         sodipodi:role="line"
+         id="tspan905"
+         x="107.8997"
+         y="127.37798"
+         style="stroke-width:0.264583">27/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="143.06792"
+       y="127.37798"
+       id="text911"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="143.06792"
+         y="127.37798"
+         style="stroke-width:0.264583">28/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="178.63837"
+       y="127.37798"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="178.63837"
+         y="127.37798"
+         style="stroke-width:0.264583">29/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7948px;line-height:32.2577px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.969871"
+       x="59.172031"
+       y="49.509918"
+       id="text919"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="59.172031"
+         y="49.509918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.969871">MAIO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="12.532321"
+       y="103.16605"
+       id="text923"><tspan
+         sodipodi:role="line"
+         id="tspan921"
+         x="12.532321"
+         y="103.16605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Eu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="144.15884"
+       y="143.4583"
+       id="text941"><tspan
+         sodipodi:role="line"
+         id="tspan939"
+         x="144.15884"
+         y="143.4583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Rosaria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="142.72217"
+       y="103.26424"
+       id="text945"><tspan
+         sodipodi:role="line"
+         id="tspan943"
+         x="142.72217"
+         y="103.26424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Claudia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="5.0778713"
+       y="143.48413"
+       id="text949"><tspan
+         sodipodi:role="line"
+         id="tspan947"
+         x="5.0778713"
+         y="143.48413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Wilian</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="41.062889"
+       y="138.0041"
+       id="text953"><tspan
+         sodipodi:role="line"
+         id="tspan951"
+         x="41.062889"
+         y="138.0041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Riso</tspan><tspan
+         sodipodi:role="line"
+         x="41.062889"
+         y="148.91249"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583"
+         id="tspan955">neuma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="75.294182"
+       y="103.29008"
+       id="text959"><tspan
+         sodipodi:role="line"
+         id="tspan957"
+         x="75.294182"
+         y="103.29008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Eliene</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="179.74777"
+       y="102.46842"
+       id="text963"><tspan
+         sodipodi:role="line"
+         id="tspan961"
+         x="179.74777"
+         y="102.46842"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Borges</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="178.73769"
+       y="143.4583"
+       id="text967"><tspan
+         sodipodi:role="line"
+         id="tspan965"
+         x="178.73769"
+         y="143.4583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Luciana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="278.09"
+       y="252.8362"
+       id="text975"><tspan
+         sodipodi:role="line"
+         id="tspan973"
+         x="278.09"
+         y="252.8362"
+         style="stroke-width:0.264583">07/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="314.10498"
+       y="252.8362"
+       id="text979"><tspan
+         sodipodi:role="line"
+         id="tspan977"
+         x="314.10498"
+         y="252.8362"
+         style="stroke-width:0.264583">08/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="348.35251"
+       y="252.8362"
+       id="text983"><tspan
+         sodipodi:role="line"
+         id="tspan981"
+         x="348.35251"
+         y="252.8362"
+         style="stroke-width:0.264583">09/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="383.72186"
+       y="252.8362"
+       id="text987"><tspan
+         sodipodi:role="line"
+         id="tspan985"
+         x="383.72186"
+         y="252.8362"
+         style="stroke-width:0.264583">10/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="418.89008"
+       y="252.8362"
+       id="text991"><tspan
+         sodipodi:role="line"
+         id="tspan989"
+         x="418.89008"
+         y="252.8362"
+         style="stroke-width:0.264583">11/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="454.46051"
+       y="252.8362"
+       id="text995"><tspan
+         sodipodi:role="line"
+         id="tspan993"
+         x="454.46051"
+         y="252.8362"
+         style="stroke-width:0.264583">12/06</tspan></text>
+    <g
+       id="g1091">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+         x="286.68893"
+         y="237.33916"
+         id="text971"><tspan
+           sodipodi:role="line"
+           id="tspan969"
+           x="286.68893"
+           y="237.33916"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Ter </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="319.69824"
+         y="237.49791"
+         id="text999"><tspan
+           sodipodi:role="line"
+           id="tspan997"
+           x="319.69824"
+           y="237.49791"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Qua</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="355.80844"
+         y="237.49791"
+         id="text1003"><tspan
+           sodipodi:role="line"
+           id="tspan1001"
+           x="355.80844"
+           y="237.49791"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Qui</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+         x="388.91827"
+         y="237.49791"
+         id="text1007"><tspan
+           sodipodi:role="line"
+           id="tspan1005"
+           x="388.91827"
+           y="237.49791"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Sext</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="425.8327"
+         y="237.49791"
+         id="text1011"><tspan
+           sodipodi:role="line"
+           id="tspan1009"
+           x="425.8327"
+           y="237.49791"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Sáb</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.264583"
+         x="458.67795"
+         y="237.33916"
+         id="text1015"><tspan
+           sodipodi:role="line"
+           id="tspan1013"
+           x="458.67795"
+           y="237.33916"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.264583">Dom</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="278.09"
+       y="284.58618"
+       id="text1019"><tspan
+         sodipodi:role="line"
+         id="tspan1017"
+         x="278.09"
+         y="284.58618"
+         style="stroke-width:0.264583">21/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="314.10498"
+       y="284.58618"
+       id="text1023"><tspan
+         sodipodi:role="line"
+         id="tspan1021"
+         x="314.10498"
+         y="284.58618"
+         style="stroke-width:0.264583">22/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="348.35251"
+       y="284.58618"
+       id="text1027"><tspan
+         sodipodi:role="line"
+         id="tspan1025"
+         x="348.35251"
+         y="284.58618"
+         style="stroke-width:0.264583">23/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="383.72186"
+       y="284.58618"
+       id="text1031"><tspan
+         sodipodi:role="line"
+         id="tspan1029"
+         x="383.72186"
+         y="284.58618"
+         style="stroke-width:0.264583">24/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="418.89008"
+       y="284.58618"
+       id="text1035"><tspan
+         sodipodi:role="line"
+         id="tspan1033"
+         x="418.89008"
+         y="284.58618"
+         style="stroke-width:0.264583">25/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:8.79999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="454.46051"
+       y="284.58618"
+       id="text1039"><tspan
+         sodipodi:role="line"
+         id="tspan1037"
+         x="454.46051"
+         y="284.58618"
+         style="stroke-width:0.264583">26/06</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7948px;line-height:32.2577px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.969871"
+       x="339.78671"
+       y="212.0098"
+       id="text1043"><tspan
+         sodipodi:role="line"
+         id="tspan1041"
+         x="339.78671"
+         y="212.0098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.969871">Junho</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="455.7128"
+       y="266.94565"
+       id="text1109"><tspan
+         sodipodi:role="line"
+         id="tspan1107"
+         x="455.7128"
+         y="266.94565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Borges</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="455.7128"
+       y="298.69559"
+       id="text1113"><tspan
+         sodipodi:role="line"
+         id="tspan1111"
+         x="455.7128"
+         y="298.69559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Luciana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="105.9483"
+       y="103.26424"
+       id="text1119"><tspan
+         sodipodi:role="line"
+         id="tspan1117"
+         x="105.9483"
+         y="103.26424"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Gabriela</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="37.095776"
+       y="103.29008"
+       id="text1135"><tspan
+         sodipodi:role="line"
+         id="tspan1133"
+         x="37.095776"
+         y="103.29008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Joshuan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="74.120918"
+       y="143.4893"
+       id="text1139"><tspan
+         sodipodi:role="line"
+         id="tspan1137"
+         x="74.120918"
+         y="143.4893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Valeria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="107.8083"
+       y="143.4893"
+       id="text1143"><tspan
+         sodipodi:role="line"
+         id="tspan1141"
+         x="107.8083"
+         y="143.4893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Ceziano</tspan></text>
+    <rect
+       style="fill:url(#linearGradient1275);fill-opacity:1;stroke-width:0.265861;stroke-linecap:round;stroke-linejoin:bevel"
+       id="rect1145"
+       width="210"
+       height="296"
+       x="-223.92267"
+       y="-442.30066"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path1641"
+       style="opacity:0.5801105;fill:#aa0000;stroke:none;stroke-width:0.524927;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#marker1921);filter:url(#filter2141)"
+       d="m -396.5636,87.017047 h 219.76539 l -21.16667,4.238323 H -412.4386 Z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="rect1453"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.524927;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -397.09277,86.48788 h 219.76539 l -21.16667,4.238323 h -214.47372 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7948px;line-height:32.2577px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;fill:#800000;stroke-width:0.969871;filter:url(#filter1449);opacity:0.44475138;"
+       x="-339.9072"
+       y="54.860874"
+       id="text1443"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1441"
+         x="-339.9072"
+         y="54.860874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';fill:#800000;stroke-width:0.969871;">MAIO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7948px;line-height:32.2577px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.969871;fill:#ffffff;"
+       x="-340.66318"
+       y="54.293911"
+       id="text1223"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1221"
+         x="-340.66318"
+         y="54.293911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.969871;fill:#ffffff;">MAIO</tspan></text>
+    <g
+       id="g1519"
+       transform="translate(0,12.17083)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1507"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect1503"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-407.1712"
+       y="104.64531"
+       id="text1149"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1147"
+         x="-407.1712"
+         y="104.64531"
+         style="font-size:7.05556px;stroke-width:0.264583">10/05</tspan></text>
+    <g
+       id="g1525"
+       transform="translate(41.1462,12.17083)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1521"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1523"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-366.15915"
+       y="104.64531"
+       id="text1153"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1151"
+         x="-366.15915"
+         y="104.64531"
+         style="font-size:7.05556px;stroke-width:0.264583">11/05</tspan></text>
+    <g
+       id="g1555"
+       transform="translate(81.246313,12.17083)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1551"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1553"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-326.43298"
+       y="104.64531"
+       id="text1157"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1155"
+         x="-326.43298"
+         y="104.64531"
+         style="font-size:7.05556px;stroke-width:0.264583">12/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.07369px;line-height:5.05026px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.151843"
+       x="-400.77777"
+       y="88.413071"
+       id="text1173"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1171"
+         x="-400.77777"
+         y="88.413071"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.151843">Ter </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.07369px;line-height:5.05026px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.151843"
+       x="-361.57263"
+       y="88.504181"
+       id="text1177"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1175"
+         x="-361.57263"
+         y="88.504181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.151843">Qua</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.07369px;line-height:5.05026px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.151843"
+       x="-320.72546"
+       y="88.504181"
+       id="text1181"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1179"
+         x="-320.72546"
+         y="88.504181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.151843">Qui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.07369px;line-height:5.05026px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.151843"
+       x="-281.40402"
+       y="88.504181"
+       id="text1185"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1183"
+         x="-281.40402"
+         y="88.504181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.151843">Sext</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.07369px;line-height:5.05026px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.151843"
+       x="-239.96901"
+       y="88.504181"
+       id="text1189"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1187"
+         x="-239.96901"
+         y="88.504181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.151843">Sáb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.07369px;line-height:5.05026px;font-family:Afterglow;-inkscape-font-specification:Afterglow;letter-spacing:0px;stroke-width:0.151843"
+       x="-200.7092"
+       y="88.413071"
+       id="text1193"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1191"
+         x="-200.7092"
+         y="88.413071"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;stroke-width:0.151843">Dom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-405.71802"
+       y="120.12086"
+       id="text1227"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1225"
+         x="-405.71802"
+         y="120.12086"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Italo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-328.80203"
+       y="120.24493"
+       id="text1249"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1247"
+         x="-328.80203"
+         y="120.24493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Eliene</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-372.29208"
+       y="120.21903"
+       id="text1265"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1263"
+         x="-372.29208"
+         y="120.21903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Joshuan</tspan></text>
+    <circle
+       style="opacity:0.58011;fill:#aa0000;stroke:none;stroke-width:0.431383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;filter:url(#filter2247)"
+       id="circle2153"
+       cx="-425.68533"
+       cy="37.071709"
+       r="3.9922252"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.900483;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1289"
+       width="291.94257"
+       height="205.77995"
+       x="-440.27194"
+       y="16.03269"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g2267"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1457"
+         cx="-180.13966"
+         cy="191.76587"
+         r="0.4009043" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1459"
+         cx="-180.13966"
+         cy="197.05754"
+         r="0.4009043" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1461"
+         cx="-180.13966"
+         cy="202.34921"
+         r="0.4009043" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1463"
+         cx="-180.13966"
+         cy="207.64088"
+         r="0.4009043" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.44075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1471"
+         cx="-169.40779"
+         cy="207.64088"
+         r="0.80000001" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.44075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1475"
+         cx="-169.40779"
+         cy="202.34921"
+         r="0.80000001" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.44075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1477"
+         cx="-169.40779"
+         cy="197.05754"
+         r="0.80000001" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.44075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1479"
+         cx="-169.40779"
+         cy="191.76587"
+         r="0.80000001" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.08057;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1481"
+         cx="-174.89946"
+         cy="191.76587"
+         r="0.60000002" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.08057;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1489"
+         cx="-174.89946"
+         cy="197.05754"
+         r="0.60000002" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.08057;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1491"
+         cx="-174.89946"
+         cy="202.34921"
+         r="0.60000002" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.08057;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1493"
+         cx="-174.89946"
+         cy="207.64088"
+         r="0.60000002" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.98103;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1495"
+         cx="-163.81612"
+         cy="191.76587"
+         r="1.1" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.98103;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1497"
+         cx="-163.81612"
+         cy="197.05754"
+         r="1.1" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.98103;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1499"
+         cx="-163.81612"
+         cy="202.34921"
+         r="1.1" />
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:1.98103;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle1501"
+         cx="-163.81612"
+         cy="207.64088"
+         r="1.1" />
+    </g>
+    <g
+       id="g1531"
+       transform="translate(162.2032,59.165852)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1527"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1529"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g1537"
+       transform="translate(202.97536,12.17083)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1533"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1535"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g1543"
+       transform="translate(162.20319,12.17083)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1539"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1541"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       id="g1549"
+       transform="translate(121.80678,12.17083)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1545"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1547"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-285.80548"
+       y="104.64531"
+       id="text1161"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1159"
+         x="-285.80548"
+         y="104.64531"
+         style="font-size:7.05556px;stroke-width:0.264583">13/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-245.36674"
+       y="104.64531"
+       id="text1165"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1163"
+         x="-245.36674"
+         y="104.64531"
+         style="font-size:7.05556px;stroke-width:0.264583">14/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-204.53459"
+       y="104.64531"
+       id="text1169"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1167"
+         x="-204.53459"
+         y="104.64531"
+         style="font-size:7.05556px;stroke-width:0.264583">15/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-246.10403"
+       y="151.21198"
+       id="text1215"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1213"
+         x="-246.10403"
+         y="151.21198"
+         style="font-size:7.05556px;stroke-width:0.264583">28/05</tspan></text>
+    <g
+       id="g1585"
+       transform="translate(202.97536,59.165852)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1581"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1583"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-205.20135"
+       y="151.21198"
+       id="text1219"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1217"
+         x="-205.20135"
+         y="151.21198"
+         style="font-size:7.05556px;stroke-width:0.264583">29/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-250.45995"
+       y="167.2923"
+       id="text1231"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1229"
+         x="-250.45995"
+         y="167.2923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Rosaria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-250.7907"
+       y="120.21903"
+       id="text1235"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1233"
+         x="-250.7907"
+         y="120.21903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Claudia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-208.47339"
+       y="119.42329"
+       id="text1253"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1251"
+         x="-208.47339"
+         y="119.42329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Borges</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-210.4836"
+       y="167.2923"
+       id="text1257"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1255"
+         x="-210.4836"
+         y="167.2923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Luciana</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-292.85626"
+       y="120.21903"
+       id="text1261"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1259"
+         x="-292.85626"
+         y="120.21903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Gabriela</tspan></text>
+    <g
+       id="g1579"
+       transform="translate(0.72327628,59.165852)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1575"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1577"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-407.53458"
+       y="151.21198"
+       id="text1199"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1197"
+         x="-407.53458"
+         y="151.21198"
+         style="font-size:7.05556px;stroke-width:0.264583">24/05</tspan></text>
+    <g
+       id="g1573"
+       transform="translate(41.146217,59.165852)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1569"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1571"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-366.99521"
+       y="151.21198"
+       id="text1203"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1201"
+         x="-366.99521"
+         y="151.21198"
+         style="font-size:7.05556px;stroke-width:0.264583">25/05</tspan></text>
+    <g
+       id="g1567"
+       transform="translate(81.246327,59.165852)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1563"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1565"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-327.01505"
+       y="151.21198"
+       id="text1207"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1205"
+         x="-327.01505"
+         y="151.21198"
+         style="font-size:7.05556px;stroke-width:0.264583">26/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-411.58328"
+       y="167.28197"
+       id="text1239"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1237"
+         x="-411.58328"
+         y="167.28197"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Wiliam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-378.69992"
+       y="167.2923"
+       id="text1245"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="-378.69992"
+         y="167.2923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583"
+         id="tspan1243">Risoneuma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-330.84839"
+       y="167.2923"
+       id="text1269"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1267"
+         x="-330.84839"
+         y="167.2923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Valeria</tspan></text>
+    <g
+       id="g1561"
+       transform="translate(121.80678,59.165852)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path1557"
+         style="opacity:0.809392;fill:#000000;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter1513)"
+         d="m -408.63879,86.863748 26.19241,-4.00904 0.53454,28.330562 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path1559"
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.722;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -409.16796,86.334581 26.19241,-4.00904 0.53454,28.330559 -31.00326,3.74177 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:5.86666px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;stroke-width:0.264583"
+       x="-286.38403"
+       y="151.21198"
+       id="text1211"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1209"
+         x="-286.38403"
+         y="151.21198"
+         style="font-size:7.05556px;stroke-width:0.264583">27/05</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:8.79999px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-291.86407"
+       y="167.24062"
+       id="text1273"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1271"
+         x="-291.86407"
+         y="167.24062"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">Ceziano</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1591"
+       style="font-size:10.5833px;line-height:8.8px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;white-space:pre;shape-inside:url(#rect1593);fill:#ffffff;"
+       transform="translate(16.933334)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="-351.19141"
+         y="73.025962"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;fill:#ffffff">Almoço das sisters</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -325.80155,60.493746 h 95.25001 v 0.377976"
+       id="path1597"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-369.01135"
+       y="131.60568"
+       id="text1603"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1601"
+         x="-369.01135"
+         y="131.60568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">99270-2878</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-247.93231"
+       y="178.65031"
+       id="text1607"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1605"
+         x="-247.93231"
+         y="178.65031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">98778-7505</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-288.31497"
+       y="178.65031"
+       id="text1611"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1609"
+         x="-288.31497"
+         y="178.65031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">99756-8173</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-247.91856"
+       y="131.60568"
+       id="text1615"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1613"
+         x="-247.91856"
+         y="131.60568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">98883-7193</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-328.98843"
+       y="131.65529"
+       id="text1619"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1617"
+         x="-328.98843"
+         y="131.65529"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">98662-8872</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-369.07748"
+       y="178.65031"
+       id="text1623"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1621"
+         x="-369.07748"
+         y="178.65031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">98601-6644</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-207.18771"
+       y="178.65031"
+       id="text1627"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1625"
+         x="-207.18771"
+         y="178.65031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">98748-5507</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-328.88919"
+       y="178.65031"
+       id="text1631"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1629"
+         x="-328.88919"
+         y="178.65031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">99433-7135</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-409.43979"
+       y="178.65031"
+       id="text1635"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1633"
+         x="-409.43979"
+         y="178.65031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">98614-0117</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:4.69333px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';letter-spacing:0px;stroke-width:0.264583"
+       x="-288.38113"
+       y="131.60568"
+       id="text1639"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan1637"
+         x="-288.38113"
+         y="131.60568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'HoloLens MDL2 Assets';-inkscape-font-specification:'HoloLens MDL2 Assets';stroke-width:0.264583">99229-2239</tspan></text>
+    <circle
+       style="opacity:1;fill:#ffbdbd;fill-opacity:1;stroke:#ffffff;stroke-width:0.431383;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2151"
+       cx="-425.88574"
+       cy="36.737617"
+       r="3.9922252"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01673px;line-height:6.8px;font-family:Afterglow;-inkscape-font-specification:Afterglow;text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.175419;fill:#2b0000;"
+       x="-226.19463"
+       y="195.37677"
+       id="text2271"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2269"
+         x="-226.19463"
+         y="195.37677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;text-align:center;text-anchor:middle;stroke-width:0.175419;fill:#2b0000;">98832-0095</tspan><tspan
+         sodipodi:role="line"
+         x="-226.19463"
+         y="202.17677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;text-align:center;text-anchor:middle;stroke-width:0.175419;fill:#2b0000;"
+         id="tspan2273">98525-0988</tspan><tspan
+         sodipodi:role="line"
+         x="-226.19463"
+         y="208.97678"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Afterglow;-inkscape-font-specification:Afterglow;text-align:center;text-anchor:middle;stroke-width:0.175419;fill:#2b0000;"
+         id="tspan2275">98782-9722</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:5.27999px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script';letter-spacing:0px;white-space:pre;inline-size:95.6629;stroke-width:0.264583;fill:#2b0000;"
+       x="-361.34525"
+       y="194.65775"
+       id="text2279"
+       transform="translate(-26.83631,-3.6075765)"
+       inkscape:export-filename="C:\Users\Italo\Documents\Calendario Maio.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="-361.34525"
+         y="194.65775"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Afterglow;-inkscape-font-specification:Afterglow;fill:#2b0000;stroke-width:0.264583">Caso ocorra algum imprevisto que
+</tspan></tspan><tspan
+         x="-361.34525"
+         y="200.0956"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Afterglow;-inkscape-font-specification:Afterglow;fill:#2b0000;stroke-width:0.264583">impossibilite o almoço na sua casa
+</tspan></tspan><tspan
+         x="-361.34525"
+         y="205.53345"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Afterglow;-inkscape-font-specification:Afterglow;fill:#2b0000;stroke-width:0.264583">eu vou deixar o contato de algumas
+</tspan></tspan><tspan
+         x="-361.34525"
+         y="210.9713"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Afterglow;-inkscape-font-specification:Afterglow;fill:#2b0000;stroke-width:0.264583">marmitarias, que você pode entrar
+</tspan></tspan><tspan
+         x="-361.34525"
+         y="216.40915"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Afterglow;-inkscape-font-specification:Afterglow;fill:#2b0000;stroke-width:0.264583">em contato</tspan></tspan></text>
+  </g>
+</svg>
