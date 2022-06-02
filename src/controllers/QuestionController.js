@@ -5,5 +5,9 @@ module.exports = {
     const action = req.params.action
     // const password para pegar a senha da modal.
     const password = req.body.password
+
+    console.log(
+      `room = ${roomId}, questionId = ${questionId} action = ${action} password = ${password}`
+    )
   }
 }

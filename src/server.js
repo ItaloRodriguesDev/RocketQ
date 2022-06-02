@@ -10,7 +10,7 @@ server.use(express.static('public'))
 
 server.set('views', path.join(__dirname, 'views'))
 
-/*server.use(express.urlencoded({ extended: true }))*/
+server.use(express.urlencoded({ extended: true })) // Midware, serve para pegar o conteudo do formulário, decodifica e passa para o controller.
 
 server.use(route)
 
