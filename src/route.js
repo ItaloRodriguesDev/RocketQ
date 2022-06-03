@@ -11,8 +11,8 @@ route.get('/create-pass', (req, res) =>
 route.get('/', (req, res) => res.render('index', { page: 'enter-room' }))
 
 //Formato que o formulario de dentro da modal tem que passar a informação
-route.post('/room/:room/:question/:check/:action', QuestionController.index)
+route.post('/question/:room/:question/:action', QuestionController.index)
 // Rota para a tag form action, arquivo create pass L3, tambem foi criado um controller, RoomConroller
-route.post('/room/create-room', RoomController.create)
+route.post('/create-room', RoomController.create)
 
 module.exports = route
